@@ -1,6 +1,6 @@
 # 高性能計算若手の会 ロゴ
 
-<img src='./hpc-wakate.logo.svg', width=400px>
+<img src='./hpc-wakate.logo.svg', width=400>
 
 Dragonflyを参考に、交流の場をイメージ。
 
